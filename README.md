@@ -1,6 +1,6 @@
 ### Hi folks👋
-
-<!--
+My snap I'd 
+<!--https://www.snapchat.com/add/mr_srinivas21?share_id=ykYWlhCCzV4&locale=en-US
 **SrinivasReddy217/Srinivasreddy217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
